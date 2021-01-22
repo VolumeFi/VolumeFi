@@ -6,7 +6,7 @@ VolumeFi wants to be the RedHat for Decentralized Exchanges and Automated Market
 ### VolumeFi's Services
 - Opensource DEX software tools for developers
 - Engineering Client Services for access
-- DEX Training for Developers and Executives
+- DEX Training and certification for software developers and business executives
 - Software Support Services
 
 ### Support or Contact
