@@ -10,4 +10,4 @@ VolumeFi wants to be the RedHat for Decentralized Exchanges and Automated Market
 - Software Support Services
 
 ### Support or Contact
-Want to get early access to our services [contact support](hmailto:info@volumefinance) and we’ll help you get moving.
+Want to get early access to our services [contact support](mailto:info@volumefinance) and we’ll help you get moving.
